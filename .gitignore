@@ -1,2 +1,4 @@
 #vim
 *.un~
+
+bower_components

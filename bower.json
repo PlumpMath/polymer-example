@@ -16,15 +16,7 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "*/test",
-    "*/CONTRIBUTING.md",
-    "*/README.md",
-    "*/.travis.yml",
-    "*/bower.json",
-    "*/.bower.json",
-    "*/.gitignore",
-    "*/index.html"
+    "tests"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
