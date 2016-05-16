@@ -1,0 +1,33 @@
+{
+  "name": "Polymer example catalog",
+  "authors": [
+    "CH.Idea <sbw228@gmail.com>"
+  ],
+  "description": "Example-first catalog page of Polymer.",
+  "main": "index.html",
+  "keywords": [
+    "Polymer",
+    "Web template"
+  ],
+  "license": "MIT",
+  "homepage": "https://chidea.github.io/polymer-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*/test",
+    "*/CONTRIBUTING.md",
+    "*/README.md",
+    "*/.travis.yml",
+    "*/bower.json",
+    "*/.bower.json",
+    "*/.gitignore",
+    "*/index.html"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "polymer-elements": "https://github.com/Polymer/polymer-elements.git#^0.3.0"
+  }
+}
